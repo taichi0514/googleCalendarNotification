@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# gas
+.clasp.json
+.env
+node_modules/
+.DS_Store
+.vscode/
+.node-version
